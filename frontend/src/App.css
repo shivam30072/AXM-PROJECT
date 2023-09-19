@@ -1,0 +1,16 @@
+body{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.homepage{
+  min-height: 100vh;
+  display: flex;
+  background-image: url('./images/background.jpg');
+  background-size: cover;
+  background-position: center;
+  font-family: "poppins";
+}
+
+
